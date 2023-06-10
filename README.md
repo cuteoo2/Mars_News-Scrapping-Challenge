@@ -24,3 +24,6 @@ This repo consists of two technical products.The following were submitted as del
 
 
  The DataFrame was also exported into a CSV file.
+
+
+![image](https://github.com/cuteoo2/Mars_News-Scrapping-Challenge/assets/122655370/39df13ef-f5e4-45ad-8f01-86fcc7a4dc3d)
